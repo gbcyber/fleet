@@ -42,7 +42,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/digitalocean/go-smbios v0.0.0-20180907143718-390a4f403a8e
-	github.com/docker/docker v26.1.5+incompatible
+	github.com/docker/docker v28.0.0+incompatible
 	github.com/docker/go-units v0.5.0
 	github.com/doug-martin/goqu/v9 v9.18.0
 	github.com/e-dard/netbug v0.0.0-20151029172837-e64d308a0b20
