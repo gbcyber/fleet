@@ -38,7 +38,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/clbanning/mxj v1.8.4
-	github.com/containerd/containerd v1.7.27
+	github.com/containerd/containerd v1.7.29
 	github.com/crewjam/saml v0.5.1
 	github.com/danieljoos/wincred v1.2.1
 	github.com/davecgh/go-spew v1.1.1
@@ -144,17 +144,17 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.35.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.35.0
 	go.opentelemetry.io/otel/sdk v1.35.0
-	golang.org/x/crypto v0.36.0
+	golang.org/x/crypto v0.40.0
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
 	golang.org/x/image v0.18.0
-	golang.org/x/mod v0.19.0
-	golang.org/x/net v0.38.0
-	golang.org/x/oauth2 v0.27.0
-	golang.org/x/sync v0.12.0
-	golang.org/x/sys v0.32.0
-	golang.org/x/term v0.30.0
-	golang.org/x/text v0.23.0
-	golang.org/x/tools v0.23.0
+	golang.org/x/mod v0.26.0
+	golang.org/x/net v0.42.0
+	golang.org/x/oauth2 v0.30.0
+	golang.org/x/sync v0.16.0
+	golang.org/x/sys v0.34.0
+	golang.org/x/term v0.33.0
+	golang.org/x/text v0.27.0
+	golang.org/x/tools v0.34.0
 	google.golang.org/api v0.215.0
 	google.golang.org/grpc v1.71.1
 	gopkg.in/guregu/null.v3 v3.5.0
@@ -332,7 +332,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.5.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/time v0.11.0 // indirect
+	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250218202821-56aae31c358a // indirect
